@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Description": "Buy milk",
+    "Status": "done",
+    "CreatedAt": "2025-11-24T19:55:09.18531+02:00",
+    "LastUpdatedAt": "2025-11-24T20:05:38.6283831+02:00"
+  },
+  {
+    "Id": 2,
+    "Description": "Backup",
+    "Status": "todo",
+    "CreatedAt": "2025-11-24T20:06:06.698174+02:00",
+    "LastUpdatedAt": "2025-11-24T20:06:06.69822+02:00"
+  }
+]
